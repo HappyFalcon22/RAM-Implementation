@@ -1,0 +1,4 @@
+Execution result : 
+Register 1 : 446
+Output d : 5
+Total line execution : 17
